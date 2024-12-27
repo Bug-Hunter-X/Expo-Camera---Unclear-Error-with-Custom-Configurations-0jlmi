@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered when using the Expo Camera API with custom configurations. The bug results in a blank screen or a crash with minimal error information. The solution provides a fix and explains the cause of the problem.
