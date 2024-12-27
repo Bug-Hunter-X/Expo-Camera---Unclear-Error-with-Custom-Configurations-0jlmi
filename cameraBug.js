@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API with custom camera configurations.  The error message is vague and doesn't pinpoint the exact issue. It typically manifests as a blank screen or a crash without a clear error message in the console.
